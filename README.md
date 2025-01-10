@@ -26,11 +26,13 @@ Open a terminal and navigate to the `server` directory:
 ```bash  
 npm install  
 npm run dev  
+```
 
-`````
+```bash
 cd server  
 npm install  
 npm start  
+```
 
 
 
