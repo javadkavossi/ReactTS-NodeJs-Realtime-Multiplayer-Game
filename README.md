@@ -24,12 +24,15 @@ Follow these steps to set up and run the game locally:
 ### 1. Start the Server  
 Open a terminal and navigate to the `server` directory:  
 ```bash  
+npm install  
+npm run dev  
+
+`````
 cd server  
 npm install  
 npm start  
 
-npm install  
-npm run dev  
+
 
 ### 3. Play the Game  
 
